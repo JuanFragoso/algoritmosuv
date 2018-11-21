@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="/Users/JuanFragoso/Documents/ejercicio4/ejercicio4.workspace">
+  <int Value="2" Name="m_selectedTab"/>
+  <wxString Value="/Users/JuanFragoso/Documents/ejercicio4/ejercicio4.workspace" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="/Users/JuanFragoso/Documents/ejercicio4/ejercicio06/main.cpp" Name="FileName"/>
+      <int Value="5" Name="FirstVisibleLine"/>
+      <int Value="16" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/JuanFragoso/Documents/ejercicio4/ejercicio9/main.cpp" Name="FileName"/>
+      <int Value="11" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/JuanFragoso/Documents/ejercicio4/ejercicio10/main.cpp" Name="FileName"/>
+      <int Value="17" Name="FirstVisibleLine"/>
+      <int Value="24" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+  <wxString Value="*.c;*.cpp;*.cxx;*.cc;*.h;*.hpp;*.inc;*.mm;*.m;*.xrc" Name="m_findInFilesMask"/>
+</Session>

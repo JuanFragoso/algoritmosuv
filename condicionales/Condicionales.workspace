@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Condicionales" Database="" Version="10.0.0">
+  <Project Name="ejemplo1" Path="ejemplo1/ejemplo1.project" Active="No"/>
+  <Project Name="ejemplo2" Path="ejemplo2/ejemplo2.project" Active="No"/>
+  <Project Name="ejercicio01" Path="ejercicio01/ejercicio01.project" Active="No"/>
+  <Project Name="ejercicio02" Path="ejercicio02/ejercicio02.project" Active="No"/>
+  <Project Name="ejercicio03" Path="ejercicio03/ejercicio03.project" Active="No"/>
+  <Project Name="ejercicio04" Path="ejercicio04/ejercicio04.project" Active="No"/>
+  <Project Name="ejercicio05" Path="ejercicio05/ejercicio05.project" Active="No"/>
+  <Project Name="ejercicio06" Path="ejercicio06/ejercicio06.project" Active="No"/>
+  <Project Name="ejercicio07" Path="ejercicio07/ejercicio07.project" Active="No"/>
+  <Project Name="ejercicio08" Path="ejercicio08/ejercicio08.project" Active="No"/>
+  <Project Name="ejercicio09" Path="ejercicio09/ejercicio09.project" Active="No"/>
+  <Project Name="ejercicio10" Path="ejercicio10/ejercicio10.project" Active="No"/>
+  <Project Name="ejercicio11" Path="ejercicio11/ejercicio11.project" Active="No"/>
+  <Project Name="ejercicio12" Path="ejercicio12/ejercicio12.project" Active="No"/>
+  <Project Name="pruebachar" Path="pruebachar/pruebachar.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="ejemplo1" ConfigName="Debug"/>
+      <Project Name="ejemplo2" ConfigName="Debug"/>
+      <Project Name="ejercicio01" ConfigName="Debug"/>
+      <Project Name="ejercicio02" ConfigName="Debug"/>
+      <Project Name="ejercicio03" ConfigName="Debug"/>
+      <Project Name="ejercicio04" ConfigName="Debug"/>
+      <Project Name="ejercicio05" ConfigName="Debug"/>
+      <Project Name="ejercicio06" ConfigName="Debug"/>
+      <Project Name="ejercicio07" ConfigName="Debug"/>
+      <Project Name="ejercicio08" ConfigName="Debug"/>
+      <Project Name="ejercicio09" ConfigName="Debug"/>
+      <Project Name="ejercicio10" ConfigName="Debug"/>
+      <Project Name="ejercicio11" ConfigName="Debug"/>
+      <Project Name="ejercicio12" ConfigName="Debug"/>
+      <Project Name="pruebachar" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="ejemplo1" ConfigName="Release"/>
+      <Project Name="ejemplo2" ConfigName="Release"/>
+      <Project Name="ejercicio01" ConfigName="Release"/>
+      <Project Name="ejercicio02" ConfigName="Release"/>
+      <Project Name="ejercicio03" ConfigName="Release"/>
+      <Project Name="ejercicio04" ConfigName="Release"/>
+      <Project Name="ejercicio05" ConfigName="Release"/>
+      <Project Name="ejercicio06" ConfigName="Release"/>
+      <Project Name="ejercicio07" ConfigName="Release"/>
+      <Project Name="ejercicio08" ConfigName="Release"/>
+      <Project Name="ejercicio09" ConfigName="Release"/>
+      <Project Name="ejercicio10" ConfigName="Release"/>
+      <Project Name="ejercicio11" ConfigName="Release"/>
+      <Project Name="ejercicio12" ConfigName="Release"/>
+      <Project Name="pruebachar" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="entradasysalidas" Database="" Version="10.0.0">
+  <Project Name="ejercicio01" Path="ejercicio1/ejercicio1.project" Active="No"/>
+  <Project Name="ejercicio02" Path="ejercicio02/ejercicio02.project" Active="No"/>
+  <Project Name="ejercicio03" Path="ejercicio03/ejercicio03.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="no">
+      <Environment/>
+      <Project Name="ejercicio01" ConfigName="Debug"/>
+      <Project Name="ejercicio02" ConfigName="Debug"/>
+      <Project Name="ejercicio03" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="ejercicio01" ConfigName="Release"/>
+      <Project Name="ejercicio02" ConfigName="Release"/>
+      <Project Name="ejercicio03" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

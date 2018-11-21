@@ -1,0 +1,41 @@
+[{
+  "file": "/Users/JuanFragoso/Documents/Clases UV/Clases 2018 agosto/Algoritmos Computacionales y Programación/Unidad 2/Expresiones/ejercicio06/main.cpp",
+  "directory": "/Users/JuanFragoso/Documents/Clases UV/Clases 2018 agosto/Algoritmos Computacionales y Programación/Unidad 2/Expresiones/ejercicio06",
+  "command": "/usr/bin/g++ -c \"/Users/JuanFragoso/Documents/Clases UV/Clases 2018 agosto/Algoritmos Computacionales y Programación/Unidad 2/Expresiones/ejercicio06/main.cpp\" -o \"/Users/JuanFragoso/Documents/Clases UV/Clases 2018 agosto/Algoritmos Computacionales y Programación/Unidad 2/Expresiones/ejercicio06/main.cpp\".o  -O2  -Wall -DNDEBUG -I. -I."
+ }, {
+  "file": "/Users/JuanFragoso/Documents/Clases UV/Clases 2018 agosto/Algoritmos Computacionales y Programación/Unidad 2/Expresiones/ejercicio10/main.cpp",
+  "directory": "/Users/JuanFragoso/Documents/Clases UV/Clases 2018 agosto/Algoritmos Computacionales y Programación/Unidad 2/Expresiones/ejercicio10",
+  "command": "/usr/bin/g++ -c \"/Users/JuanFragoso/Documents/Clases UV/Clases 2018 agosto/Algoritmos Computacionales y Programación/Unidad 2/Expresiones/ejercicio10/main.cpp\" -o \"/Users/JuanFragoso/Documents/Clases UV/Clases 2018 agosto/Algoritmos Computacionales y Programación/Unidad 2/Expresiones/ejercicio10/main.cpp\".o  -O2  -Wall -DNDEBUG -I. -I."
+ }, {
+  "file": "/Users/JuanFragoso/Documents/Clases UV/Clases 2018 agosto/Algoritmos Computacionales y Programación/Unidad 2/Expresiones/ejercicio3/main.cpp",
+  "directory": "/Users/JuanFragoso/Documents/Clases UV/Clases 2018 agosto/Algoritmos Computacionales y Programación/Unidad 2/Expresiones/ejercicio3",
+  "command": "/usr/bin/g++ -c \"/Users/JuanFragoso/Documents/Clases UV/Clases 2018 agosto/Algoritmos Computacionales y Programación/Unidad 2/Expresiones/ejercicio3/main.cpp\" -o \"/Users/JuanFragoso/Documents/Clases UV/Clases 2018 agosto/Algoritmos Computacionales y Programación/Unidad 2/Expresiones/ejercicio3/main.cpp\".o  -O2  -Wall -DNDEBUG -I. -I."
+ }, {
+  "file": "/Users/JuanFragoso/Documents/Clases UV/Clases 2018 agosto/Algoritmos Computacionales y Programación/Unidad 2/Expresiones/ejercicio2/main.cpp",
+  "directory": "/Users/JuanFragoso/Documents/Clases UV/Clases 2018 agosto/Algoritmos Computacionales y Programación/Unidad 2/Expresiones/ejercicio2",
+  "command": "/usr/bin/g++ -c \"/Users/JuanFragoso/Documents/Clases UV/Clases 2018 agosto/Algoritmos Computacionales y Programación/Unidad 2/Expresiones/ejercicio2/main.cpp\" -o \"/Users/JuanFragoso/Documents/Clases UV/Clases 2018 agosto/Algoritmos Computacionales y Programación/Unidad 2/Expresiones/ejercicio2/main.cpp\".o  -O2  -Wall -DNDEBUG -I. -I."
+ }, {
+  "file": "/Users/JuanFragoso/Documents/Clases UV/Clases 2018 agosto/Algoritmos Computacionales y Programación/Unidad 2/Expresiones/ejercicio8/main.cpp",
+  "directory": "/Users/JuanFragoso/Documents/Clases UV/Clases 2018 agosto/Algoritmos Computacionales y Programación/Unidad 2/Expresiones/ejercicio8",
+  "command": "/usr/bin/g++ -c \"/Users/JuanFragoso/Documents/Clases UV/Clases 2018 agosto/Algoritmos Computacionales y Programación/Unidad 2/Expresiones/ejercicio8/main.cpp\" -o \"/Users/JuanFragoso/Documents/Clases UV/Clases 2018 agosto/Algoritmos Computacionales y Programación/Unidad 2/Expresiones/ejercicio8/main.cpp\".o  -O2  -Wall -DNDEBUG -I. -I."
+ }, {
+  "file": "/Users/JuanFragoso/Documents/Clases UV/Clases 2018 agosto/Algoritmos Computacionales y Programación/Unidad 2/Expresiones/ejercicio7/main.cpp",
+  "directory": "/Users/JuanFragoso/Documents/Clases UV/Clases 2018 agosto/Algoritmos Computacionales y Programación/Unidad 2/Expresiones/ejercicio7",
+  "command": "/usr/bin/g++ -c \"/Users/JuanFragoso/Documents/Clases UV/Clases 2018 agosto/Algoritmos Computacionales y Programación/Unidad 2/Expresiones/ejercicio7/main.cpp\" -o \"/Users/JuanFragoso/Documents/Clases UV/Clases 2018 agosto/Algoritmos Computacionales y Programación/Unidad 2/Expresiones/ejercicio7/main.cpp\".o  -O2  -Wall -DNDEBUG -I. -I."
+ }, {
+  "file": "/Users/JuanFragoso/Documents/Clases UV/Clases 2018 agosto/Algoritmos Computacionales y Programación/Unidad 2/Expresiones/ejercicio1/main.cpp",
+  "directory": "/Users/JuanFragoso/Documents/Clases UV/Clases 2018 agosto/Algoritmos Computacionales y Programación/Unidad 2/Expresiones/ejercicio1",
+  "command": "/usr/bin/g++ -c \"/Users/JuanFragoso/Documents/Clases UV/Clases 2018 agosto/Algoritmos Computacionales y Programación/Unidad 2/Expresiones/ejercicio1/main.cpp\" -o \"/Users/JuanFragoso/Documents/Clases UV/Clases 2018 agosto/Algoritmos Computacionales y Programación/Unidad 2/Expresiones/ejercicio1/main.cpp\".o  -O2  -Wall -DNDEBUG -I. -I."
+ }, {
+  "file": "/Users/JuanFragoso/Documents/Clases UV/Clases 2018 agosto/Algoritmos Computacionales y Programación/Unidad 2/Expresiones/ejercicio5/main.cpp",
+  "directory": "/Users/JuanFragoso/Documents/Clases UV/Clases 2018 agosto/Algoritmos Computacionales y Programación/Unidad 2/Expresiones/ejercicio5",
+  "command": "/usr/bin/g++ -c \"/Users/JuanFragoso/Documents/Clases UV/Clases 2018 agosto/Algoritmos Computacionales y Programación/Unidad 2/Expresiones/ejercicio5/main.cpp\" -o \"/Users/JuanFragoso/Documents/Clases UV/Clases 2018 agosto/Algoritmos Computacionales y Programación/Unidad 2/Expresiones/ejercicio5/main.cpp\".o  -O2  -Wall -DNDEBUG -I. -I."
+ }, {
+  "file": "/Users/JuanFragoso/Documents/Clases UV/Clases 2018 agosto/Algoritmos Computacionales y Programación/Unidad 2/Expresiones/ejercicio9/main.cpp",
+  "directory": "/Users/JuanFragoso/Documents/Clases UV/Clases 2018 agosto/Algoritmos Computacionales y Programación/Unidad 2/Expresiones/ejercicio9",
+  "command": "/usr/bin/g++ -c \"/Users/JuanFragoso/Documents/Clases UV/Clases 2018 agosto/Algoritmos Computacionales y Programación/Unidad 2/Expresiones/ejercicio9/main.cpp\" -o \"/Users/JuanFragoso/Documents/Clases UV/Clases 2018 agosto/Algoritmos Computacionales y Programación/Unidad 2/Expresiones/ejercicio9/main.cpp\".o  -O2  -Wall -DNDEBUG -I. -I."
+ }, {
+  "file": "/Users/JuanFragoso/Documents/Clases UV/Clases 2018 agosto/Algoritmos Computacionales y Programación/Unidad 2/Expresiones/ejercicio4/main.cpp",
+  "directory": "/Users/JuanFragoso/Documents/Clases UV/Clases 2018 agosto/Algoritmos Computacionales y Programación/Unidad 2/Expresiones/ejercicio4",
+  "command": "/usr/bin/g++ -c \"/Users/JuanFragoso/Documents/Clases UV/Clases 2018 agosto/Algoritmos Computacionales y Programación/Unidad 2/Expresiones/ejercicio4/main.cpp\" -o \"/Users/JuanFragoso/Documents/Clases UV/Clases 2018 agosto/Algoritmos Computacionales y Programación/Unidad 2/Expresiones/ejercicio4/main.cpp\".o  -O2  -Wall -DNDEBUG -I. -I."
+ }]
